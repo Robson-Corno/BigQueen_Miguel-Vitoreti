@@ -1,0 +1,101 @@
+        a {
+            color: #f3b09a;
+            display: inline-block;
+            font-family: Flame-Regular;
+            font-size: 23px;
+            font-weight: 400;
+            line-height: 17px;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            
+        }
+        h1 {
+            color: #f3b09a;
+            display: inline-block;
+            font-family: Flame-Regular;
+            font-size: 60px;
+            font-weight: 400;
+            line-height: 17px;
+            padding: 10px 30px;
+            margin-left: 60px;
+        }
+        h2 {
+            color: #f3b09a;
+            display: inline-block;
+            font-family: Flame-Regular;
+            font-size: 40px;
+            font-weight: 400;
+            line-height: 17px;
+            padding: 10px 30px;
+            margin-left: 60px;
+        }
+        a img {
+            border: 2px solid rgb(100, 65, 19);
+            border-radius: 10px;
+            width: 340px;
+            height: 350px;
+            background-color: rgb(206, 127, 24);
+            margin-left: 60px;
+            margin-right: 40px;
+            margin-bottom: 30px;
+        }  
+        a img:hover{
+            transition: 0.3;
+            border-color: black ;
+        }
+        .lanche{
+            display: flex;
+            align-items: center;
+            gap: 40px;
+            text-align: justify;
+        }
+        .lanche img{
+            width: 500px;
+            height: 430px;
+        }
+        
+        .importante{
+            max-width: max-content;
+        }
+        .importante{
+            font-size: 30px;
+            line-height: 30px;
+            color: #f3b09a;
+            margin-left: 0px;
+            margin-right: 60px;
+        }
+        .importante p{
+            margin-left: 60px;
+        }
+        .importante li{
+            margin-left: 60px;
+        }
+        .texto{
+            max-width: 500px;
+
+        }
+        .texto h1{
+            
+            font-size: 45px;
+        }
+
+        .texto p{
+            font-size: 30px;
+            line-height: 30px;
+            color: #f3b09a;
+
+        }
+        header{
+            margin: 10px;
+            padding: 10px;
+            border-radius: 20px;
+            background-color: rgb(123, 61, 10);
+        }
+        footer{
+            margin-bottom: 5%;
+            margin-top: 10%;
+        }
+        body{
+            background-color: rgb(163, 86, 23);
+        }

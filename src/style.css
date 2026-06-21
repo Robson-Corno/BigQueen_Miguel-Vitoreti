@@ -46,6 +46,7 @@
         a img:hover{
             transition: 0.3;
             border-color: black ;
+            border: 3px solid red;
         }
         .lanche{
             display: flex;

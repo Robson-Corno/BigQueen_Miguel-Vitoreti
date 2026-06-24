@@ -95,6 +95,10 @@
         footer{
             margin-bottom: 5%;
             margin-top: 10%;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 20px;
+            background-color: rgb(123, 61, 10);
         }
         body{
             background-color: rgb(163, 86, 23);

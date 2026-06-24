@@ -10,6 +10,9 @@
             text-decoration: none;
             font-family: 'Poppins', sans-serif;
         }
+        nav a:hover{
+            color: #ff8d6d;
+        }
         p {
             font-family: 'Poppins', sans-serif;
         }
@@ -39,8 +42,8 @@
             width: 340px;
             height: 350px;
             background-color: rgb(206, 127, 24);
-            margin-left: 60px;
-            margin-right: 40px;
+            margin-left: 4.39%;
+            margin-right: 4.39%;
             margin-bottom: 30px;
         }  
         a img:hover{

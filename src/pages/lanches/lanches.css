@@ -36,20 +36,6 @@
             padding: 10px 30px;
             margin-left: 60px;
         }
-        a img {
-            border: 2px solid rgb(100, 65, 19);
-            border-radius: 10px;
-            width: 340px;
-            height: 350px;
-            background-color: rgb(206, 127, 24);
-            margin-left: 4.39%;
-            margin-right: 4.39%;
-            margin-bottom: 30px;
-        }  
-        a img:hover{
-            transition: 0.3;
-            border: 3px solid red;
-        }
         .lanche{
             display: flex;
             align-items: center;
@@ -58,22 +44,6 @@
         .lanche img{
             width: 500px;
             height: 430px;
-        }
-        .importante{
-            max-width: max-content;
-        }
-        .importante{
-            font-size: 30px;
-            line-height: 30px;
-            color: #f3b09a;
-            margin-left: 0px;
-            margin-right: 60px;
-        }
-        .importante p{
-            margin-left: 60px;
-        }
-        .importante li{
-            margin-left: 60px;
         }
         .texto{
             max-width: 500px;

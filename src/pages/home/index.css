@@ -1,4 +1,4 @@
-        a {
+a {
             color: #f3b09a;
             display: inline-block;
             font-family: Flame-Regular;
@@ -49,42 +49,6 @@
         a img:hover{
             transition: 0.3;
             border: 3px solid red;
-        }
-        .lanche{
-            display: flex;
-            align-items: center;
-            gap: 40px;
-        }
-        .lanche img{
-            width: 500px;
-            height: 430px;
-        }
-        .importante{
-            max-width: max-content;
-        }
-        .importante{
-            font-size: 30px;
-            line-height: 30px;
-            color: #f3b09a;
-            margin-left: 0px;
-            margin-right: 60px;
-        }
-        .importante p{
-            margin-left: 60px;
-        }
-        .importante li{
-            margin-left: 60px;
-        }
-        .texto{
-            max-width: 500px;
-        }
-        .texto h1{
-            font-size: 45px;
-        }
-        .texto p{
-            font-size: 30px;
-            line-height: 30px;
-            color: #f3b09a;
         }
         header{
             margin: 10px;
